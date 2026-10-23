@@ -1,0 +1,4 @@
+interface:
+  display_name: "Построить аналог сервиса"
+  short_description: "Экраны и функции по проверенной карте"
+  default_prompt: "Используй $codex-replica-build и реализуй выбранные функции сервиса в нашем проекте."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Оформить свой продукт"
+  short_description: "Название, стиль и поиск чужого брендинга"
+  default_prompt: "Используй $codex-replica-brand для собственного бренда и проверки оставшихся упоминаний."

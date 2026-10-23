@@ -1,0 +1,4 @@
+interface:
+  display_name: "Подготовить и выпустить"
+  short_description: "Проверки готовности и контролируемый выпуск"
+  default_prompt: "Используй $codex-replica-deploy для проверки готовности и согласованного выпуска проекта."

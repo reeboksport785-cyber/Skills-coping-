@@ -1,0 +1,4 @@
+interface:
+  display_name: "Спроектировать аналог"
+  short_description: "Архитектура, данные и API своего аналога"
+  default_prompt: "С помощью $codex-replica-architect спроектируй реализацию по карте сервиса."

@@ -1,0 +1,3 @@
+feature,area,priority,original,clone,notes
+F01 core workflow,core,must,unknown,no,Replace with the observed behavior and dated evidence before scoring
+F02 recovery and error state,core,should,unknown,no,Record source state and completion criteria

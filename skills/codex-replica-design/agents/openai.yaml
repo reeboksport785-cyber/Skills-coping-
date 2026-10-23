@@ -1,0 +1,4 @@
+interface:
+  display_name: "Воссоздать дизайн-систему"
+  short_description: "Компоненты, состояния и доступные цвета"
+  default_prompt: "Используй $codex-replica-design для дизайн-системы и компонентов нашего аналога."

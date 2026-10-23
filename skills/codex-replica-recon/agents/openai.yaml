@@ -1,0 +1,4 @@
+interface:
+  display_name: "Разобрать сервис"
+  short_description: "Карта экранов, функций и сценариев сервиса"
+  default_prompt: "Разбери сервис по ссылке с $codex-replica-recon и подготовь карту для собственной реализации."

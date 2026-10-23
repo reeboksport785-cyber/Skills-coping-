@@ -1,0 +1,4 @@
+interface:
+  display_name: "Подготовить запуск"
+  short_description: "Позиционирование, цены и описание продукта"
+  default_prompt: "Подготовь материалы запуска нашего продукта с $codex-replica-launch."

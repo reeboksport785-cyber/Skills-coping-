@@ -1,0 +1,4 @@
+interface:
+  display_name: "Сравнить с оригиналом"
+  short_description: "Паритет функций и сравнение изображений"
+  default_prompt: "Сравни оригинал и нашу реализацию с $codex-replica-diff, покажи подтверждённые различия."

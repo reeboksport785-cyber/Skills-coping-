@@ -1,0 +1,4 @@
+interface:
+  display_name: "Подключить backend"
+  short_description: "Авторизация, данные и интеграции аналога"
+  default_prompt: "Используй $codex-replica-backend для backend и безопасных интеграций нашего аналога."

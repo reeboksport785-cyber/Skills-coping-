@@ -1,0 +1,4 @@
+interface:
+  display_name: "Проверить аналог"
+  short_description: "Сценарии, ошибки и регрессионные проверки"
+  default_prompt: "Проверь наш аналог с $codex-replica-test и воспроизведи найденные ошибки."

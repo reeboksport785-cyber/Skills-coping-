@@ -1,0 +1,4 @@
+interface:
+  display_name: "Найти улучшения"
+  short_description: "Отзывы, недостающие функции и план улучшений"
+  default_prompt: "Используй $codex-replica-entrepreneur, чтобы изучить отзывы и улучшить наш аналог."

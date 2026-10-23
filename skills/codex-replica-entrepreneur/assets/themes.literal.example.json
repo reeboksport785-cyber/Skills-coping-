@@ -1,0 +1,27 @@
+{
+  "match_mode": "literal",
+  "themes": [
+    {
+      "id": "pricing",
+      "label": "Pricing",
+      "kind": "complaint",
+      "patterns": [
+        "expensive",
+        "paywall"
+      ]
+    },
+    {
+      "id": "workflow",
+      "label": "Workflow",
+      "kind": "complaint",
+      "patterns": [
+        "too many steps",
+        "hard to use"
+      ]
+    }
+  ],
+  "request_patterns": [
+    "please add",
+    "I wish"
+  ]
+}
