@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "version": "1.1.0",
+  "entrypoint": "START-HERE.md",
+  "repository": "https://github.com/reeboksport785-cyber/Skills-coping-",
+  "skills": [
+    "skills/codex-code-review",
+    "skills/codex-replica-recon",
+    "skills/codex-replica-architect",
+    "skills/codex-replica-design",
+    "skills/codex-replica-build",
+    "skills/codex-replica-backend",
+    "skills/codex-replica-test",
+    "skills/codex-replica-diff",
+    "skills/codex-replica-entrepreneur",
+    "skills/codex-replica-brand",
+    "skills/codex-replica-launch",
+    "skills/codex-replica-deploy"
+  ],
+  "runtime_helpers": 6,
+  "runtime_test_count": 74,
+  "native_skill_discovery": "~/.agents/skills",
+  "automatic_updates": false
+}
