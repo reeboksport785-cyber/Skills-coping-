@@ -1,5 +1,7 @@
 # Security scope
 
+Each operator uses their own accounts, project and private storage. Read [PRIVACY.md](PRIVACY.md) and the [privacy audit](docs/privacy-review.ru.md). The toolkit has no collection endpoint, credential store, telemetry uploader or author-owned runtime account. Keep project data outside the toolkit checkout and installed skill folders. Provider/workspace processing and retention are separate from this toolkit's behavior; instruction files are not an enforcement sandbox.
+
 `START-HERE.md` routes a user's current request to one of the twelve skills. `codex-code-review` is an instruction-only review workflow with a report template and dated diff-tour notes. It does not install diff-tour or launch another AI CLI. Reading the entrypoint does not install a plugin, grant project access, enable background updates or authorize deployment. Host-model processing is not offline analysis.
 
 The six bundled runtime helpers use Python standard-library code and local I/O. They do not fetch URLs, run external commands, install dependencies, or self-update. The workflows can use an agent's separately available browser/connectors within the user's requested scope.
